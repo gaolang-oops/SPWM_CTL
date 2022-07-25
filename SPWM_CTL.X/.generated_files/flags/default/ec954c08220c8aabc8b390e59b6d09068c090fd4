@@ -1,0 +1,1 @@
+ -c -mcpu=$(MP_PROCESSOR_OPTION)      -mno-eds-warn  -g -omf=elf -DXPRJ_default=$(CND_CONF)  -legacy-libc  $(COMPARISON_BUILD)  -O0 -I"../HARDWARE" -msmart-io=1 -Wall -msfr-warn=off    -mdfp="${DFP_DIR}/xc16"E:\FOC电机驱动专栏\FOC_Project\SPWM_CTL\SYSTEM\Math.c

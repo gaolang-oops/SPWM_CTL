@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/debug/SPWM_CTL.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>428</used>
+      <free>15956</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>131298</length>
+      <used>5763</used>
+      <free>125535</free>
+    </memory>
+  </executable>
+</project>
